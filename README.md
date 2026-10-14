@@ -1,1 +1,1 @@
-# SC--OpenEDR-deployment.
+# SC-OpenEDR-deployment.
